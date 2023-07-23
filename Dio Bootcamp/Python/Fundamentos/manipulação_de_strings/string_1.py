@@ -1,3 +1,5 @@
+# https://docs.python.org/pt-br/3/library/string.html
+
 nome = "Gabriel"
 
 print(nome.upper())
