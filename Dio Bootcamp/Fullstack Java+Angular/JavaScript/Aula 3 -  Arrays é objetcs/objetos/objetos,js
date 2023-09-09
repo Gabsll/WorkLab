@@ -1,0 +1,23 @@
+//Dados que possuem propriedades e valores que definem suas características. Deve ser declarado entre chaves “{}”.
+
+//Ex.: imagine uma xícara azul. Ela tem cor, pode ter vários tamanhos e funções(quero cafééé). Pode ser declarada assim:
+
+var xicara = {
+cor: 'azul',
+tamanho: 'p',
+funcao: tomarCafe()
+}
+
+//As propriedades de ojbetos podem ser atribuídas à variáveis, facilitando a manipulação do objeto. Chamamos isso de desestruturação.
+//Ex.: 
+var xicara = {cor: 'azul', tamanho: 'p', funcao: tomarCafe()}
+
+var cor = xicara.cor;
+var tamanho = xicara.tamanho;
+var funcao = tomarCafe();
+
+// Outra forma de fazer a desestruturação é utilizando chaves ao declarar a variável:
+//Ex:
+ var xicara = {cor: 'azul', tamanho: 'p', funcao: tomarCafe()}
+
+var { cor, tamanho, funcao } = xicara;
