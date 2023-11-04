@@ -4,44 +4,44 @@
 
 O HTML é composto por uma variedade de elementos, que são tags e atributos usados para estruturar e formatar o conteúdo de uma página da web. Aqui estão alguns dos elementos HTML mais comuns:
 
-```
-<!DOCTYPE>: Define a versão do HTML sendo usada e a declaração de tipo de documento.
 
-<html>: Envolve todo o conteúdo da página.
+- `<!DOCTYPE>:` Define a versão do HTML sendo usada e a declaração de tipo de documento.
 
-<head>: Contém metadados, como o título da página e informações sobre a codificação de caracteres.
+- `<html>`: Envolve todo o conteúdo da página.
 
-<meta>: Define metadados, como a codificação de caracteres da página.
+- `<head>`: Contém metadados, como o título da página e informações sobre a codificação de caracteres.
 
-<title>: Define o título da página, que é exibido na guia do navegador.
+- `<meta>`: Define metadados, como a codificação de caracteres da página.
 
-<link>: Liga o documento a arquivos externos, como folhas de estilo CSS.
+- `<title>`: Define o título da página, que é exibido na guia do navegador.
 
-<script>: É usado para incluir código JavaScript na página.
+- `<link>`: Liga o documento a arquivos externos, como folhas de estilo CSS.
 
-<style>: Permite definir estilos CSS diretamente na página.
+- `<script>`: É usado para incluir código JavaScript na página.
 
-<body>: Contém o conteúdo visível da página, como texto, imagens, links e outros elementos.
+- `<style>`: Permite definir estilos CSS diretamente na página.
 
-Cabeçalhos (<h1>, <h2>, <h3>, etc.): São usados para definir títulos e subtítulos, com <h1> sendo o título principal e <h2>, <h3>, etc., para hierarquias menores.
+- `<body>`: Contém o conteúdo visível da página, como texto, imagens, links e outros elementos.
 
-<p>: Define parágrafos de texto.
+- `Cabeçalhos (<h1>, <h2>, <h3>, etc.)`: São usados para definir títulos e subtítulos, com <h1> sendo o título principal e <h2>, <h3>, etc., para hierarquias menores.
 
-<a>: Cria hiperlinks para outras páginas ou recursos.
+- `<p>`: Define parágrafos de texto.
 
-<img>: Insere imagens na página.
+- `<a>`: Cria hiperlinks para outras páginas ou recursos.
 
-Listas (<ul>, <ol>, <li>): São usadas para criar listas não ordenadas (<ul>) e listas ordenadas (<ol>), com os elementos <li> representando os itens da lista.
+- `<img>`: Insere imagens na página.
 
-<table>: Define uma tabela, com elementos como <thead>, <tbody>, <tr>, <th>, e <td> usados para organizar o conteúdo da tabela.
+- `Listas (<ul>, <ol>, <li>)`: São usadas para criar listas não ordenadas (<ul>) e listas ordenadas (<ol>), com os elementos <li> representando os itens da lista.
 
-<form>: Cria um formulário interativo que permite a entrada de dados do usuário.
+- `<table>`: Define uma tabela, com elementos como <thead>, <tbody>, <tr>, <th>, e <td> usados para organizar o conteúdo da tabela.
 
-<input>: Define campos de entrada, como caixas de texto, botões de opção e caixas de seleção, dentro de um formulário.
+- `<form>`: Cria um formulário interativo que permite a entrada de dados do usuário.
 
-<textarea>: Cria uma área de texto multilinha em um formulário.
+- `<input>`: Define campos de entrada, como caixas de texto, botões de opção e caixas de seleção, dentro de um formulário.
 
-<button>: Cria botões interativos em formulários.
+- `<textarea>`: Cria uma área de texto multilinha em um formulário.
+
+- `<button>`: Cria botões interativos em formulários.
 
 <div> e <span>: São elementos de contêiner usados para agrupar outros elementos HTML e aplicar estilos ou scripts a eles.
 

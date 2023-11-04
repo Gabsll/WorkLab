@@ -70,3 +70,7 @@ X - Validação: Verifique sempre se o seu código HTML é válido, ou seja, est
 Teste em Diferentes Navegadores: Certifique-se de que sua marcação funcione corretamente em diferentes navegadores, garantindo uma experiência consistente para os usuários.
 
 Ao seguir esses pontos-chave ao criar marcação HTML, você estará no caminho certo para criar páginas da web bem estruturadas, acessíveis e compatíveis com os padrões da web. Isso resultará em uma melhor experiência para os usuários e uma maior facilidade de manutenção do seu código.
+
+## Aprendendo a usar HTML
+
+[Criando a primeira pagina em HTML](Criando a primeira pagina em HTML.md)
