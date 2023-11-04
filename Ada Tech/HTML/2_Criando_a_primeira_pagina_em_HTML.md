@@ -79,3 +79,44 @@ O HTML é composto por uma variedade de elementos, que são tags e atributos usa
 - `<br>`: Insere uma quebra de linha.
 
 Estes são apenas alguns dos elementos HTML mais comuns. Existem muitos outros elementos e atributos disponíveis no HTML, e a combinação deles permite criar páginas da web ricas e interativas. A escolha dos elementos e sua estrutura depende do tipo de conteúdo que você deseja criar.
+
+## Dando os primieros passos em HTML
+
+### Crie uma extensão ".html"
+
+No vscode crie um novo arquivo e salve-o com a extensão ".html". Por exemplo, você pode nomeá-lo como "index.html".
+![Clique com o lado direito do mause e clique em criar novo arquivo](Criando_um_arquivo_httml_1.png)
+
+![ crie uma extenção ".html". Pode nomeá-lo como "index.html"](Criando_um_arquivo_html_2.png)
+
+### Estrutura Básica do HTML
+
+Agora, adicione a estrutura básica do HTML ao seu arquivo "index.html". Aqui está um exemplo simples:
+
+```
+<!DOCTYPE html>
+<html>
+<head lang="pt-br">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Primeira Página HTML</title>
+</head>
+<body>
+    <h1>Olá, Mundo!</h1>
+    <p>Esta é a minha primeira página HTML.</p>
+</body>
+</html>
+
+```
+
+#### Iniciar o Live Server
+
+Com o arquivo "index.html" aberto no VS Code, clique com o botão direito do mouse no arquivo no painel de navegação à esquerda.
+
+Selecione "Abrir com o Live Server" a partir das opções.
+
+Isso iniciará o Live Server e abrirá automaticamente o seu navegador padrão com a página HTML. Qualquer alteração que você fizer no arquivo HTML será refletida em tempo real no navegador, graças ao Live Server.
+
+Agora você deve ver a sua primeira página HTML no navegador. Você pode fazer alterações no código HTML e ver as atualizações imediatamente no navegador, sem a necessidade de recarregar manualmente a página.
+
+Este é um método conveniente para desenvolver e testar páginas da web em tempo real. A partir daqui, você pode continuar a aprender HTML, CSS e JavaScript para criar páginas mais avançadas e interativas.
