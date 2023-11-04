@@ -85,9 +85,9 @@ Estes são apenas alguns dos elementos HTML mais comuns. Existem muitos outros e
 ### Crie uma extensão ".html"
 
 No vscode crie um novo arquivo e salve-o com a extensão ".html". Por exemplo, você pode nomeá-lo como "index.html".
-![Clique com o lado direito do mause e clique em criar novo arquivo](Imagens\Criando_um_arquivo_httml_1.png)
+![Clique com o lado direito do mause e clique em criar novo arquivo](/Ada%20Tech/HTML/Imagens/Criando_um_arquivo_html_1.png)
 
-![ crie uma extenção ".html". Pode nomeá-lo como "index.html"](Imagens\Criando_um_arquivo_html_2.png)
+![ crie uma extenção ".html". Pode nomeá-lo como "index.html"](/Ada%20Tech/HTML/Imagens/Criando_um_arquivo_httml_2.png)
 
 ### Estrutura Básica do HTML
 
@@ -108,7 +108,7 @@ Agora, adicione a estrutura básica do HTML ao seu arquivo "index.html". Aqui es
 </html>
 
 ```
-[Pagina html](Pagina_html\index.html)
+[Pagina html](index.html)
 
 #### Iniciar o Live Server
 
