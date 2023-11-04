@@ -38,7 +38,7 @@ No geral, a marcação em HTML é o processo de estruturar e definir o conteúdo
 
 Ao criar marcação em HTML, é importante considerar diversos pontos-chave para garantir que sua página da web seja bem estrutsurada, acessível e compatível com diferentes navegadores. Aqui estão os principais pontos a serem observados:
 
-I - Estrutura Básica: Todo documento HTML deve começar com uma estrutura básica que inclui as tags <!DOCTYPE>, <html>, <head> e <body>. O <!DOCTYPE> define a versão do HTML, <html> envolve todo o documento, <head> contém metadados e informações sobre a página, e <body> contém o conteúdo visível da página.
+I - Estrutura Básica: Todo documento HTML deve começar com uma estrutura básica que inclui as tags <!DOCTYPE>, "<html>", <head> e <body>. O <!DOCTYPE> define a versão do HTML, <html> envolve todo o documento, <head> contém metadados e informações sobre a página, e <body> contém o conteúdo visível da página.
 
 II - Semântica: Use tags HTML de forma semântica, ou seja, escolha as tags que melhor descrevem o significado do conteúdo. Isso ajuda a tornar o conteúdo mais acessível e compreensível para os motores de busca e leitores de tela.
 
