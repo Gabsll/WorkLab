@@ -56,9 +56,9 @@ VII - Tabelas: Ao criar tabelas, use as tags < table >, < thead >, < tbody >, < 
 
 VIII - Formulários: Utilize as tags < form > para criar formulários. Inclua elementos como < input >, < textarea >, < select > e < button > para coletar informações dos usuários. Associe rótulos apropriados aos campos de entrada usando a tag < label >.
 
-X - Comentários: Você pode adicionar comentários ao código HTML usando <!-- para iniciar o comentário e --> para encerrá-lo. Isso é útil para documentar o código e fazer anotações para outros desenvolvedores.
+IX - Comentários: Você pode adicionar comentários ao código HTML usando <!-- para iniciar o comentário e --> para encerrá-lo. Isso é útil para documentar o código e fazer anotações para outros desenvolvedores.
 
-XI - Validação: Verifique sempre se o seu código HTML é válido, ou seja, está em conformidade com os padrões estabelecidos pelo W3C. Você pode usar ferramentas online de validação HTML para isso.
+X - Validação: Verifique sempre se o seu código HTML é válido, ou seja, está em conformidade com os padrões estabelecidos pelo W3C. Você pode usar ferramentas online de validação HTML para isso.
 
 Teste em Diferentes Navegadores: Certifique-se de que sua marcação funcione corretamente em diferentes navegadores, garantindo uma experiência consistente para os usuários.
 
