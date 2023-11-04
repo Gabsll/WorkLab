@@ -1,6 +1,34 @@
 # Primeira pagina de HTML
 
-## Vscode: e
+## Vscode: Dicas de extensões
+
+O Visual Studio Code (VS Code) é uma ferramenta altamente extensível, e você pode adicionar extensões para aprimorar sua experiência de desenvolvimento de HTML. Abaixo, listo algumas das extensões populares e úteis para trabalhar com HTML no VS Code:
+
+```
+Passo 1: Acessar a Galeria de Extensões
+
+Na barra lateral esquerda, clique no ícone que se parece com uma caixa de quebra-cabeça, que é a "Galeria de Extensões" (ou use o atalho Ctrl+Shift+X no Windows/Linux ou Cmd+Shift+X no macOS).
+
+Passo 2: Pesquisar e Instalar Extensões
+
+Na barra de pesquisa no topo, digite o nome da extensão que você deseja instalar ou uma palavra-chave relacionada. Por exemplo, você pode pesquisar por "HTML" se estiver procurando extensões relacionadas a HTML.
+
+Aparecerão várias extensões relacionadas à sua pesquisa. Clique em uma extensão específica para ver mais detalhes.
+
+Na página de detalhes da extensão, clique no botão "Instalar" para instalar a extensão.
+```
+
+- `Auto Close Tag`: Fecha automaticamente as tags HTML assim que você as abre, economizando tempo na digitação.
+
+- `Auto Rename Tag`: Atualiza automaticamente o par de abertura/fechamento de uma tag quando você renomeia um deles.
+
+- `Prettier - Code Formatter`: Formata automaticamente o código HTML (e também CSS e JavaScript) para um estilo consistente.
+
+- `TML Snippets`: Fornece uma série de snippets (fragmentos de código) para tags HTML comuns, economizando tempo na digitação.
+
+- `Live Server`: Uma das extensões obrigatórias para quem trabalha com front-end através do Visual Studio Code. Sabe aquele projeto html, css e javascriptque quando precisamos ver as alterações que fizemos no código damos refresh no navegador para ver o resultado? Esse plugin cria um localhost da aplicação e toda alteração que é salva no projeto, é atualizada automaticamente, evitando dar refresh na página a cada modificação no código feita. Assim que instalado, é só clicar no botão Go Live e o localhost será aberto no seu navegador padrão.
+
+- `Visual Studio IntelliCode`:É uma extensão que utliza a inteligência artifical e o contexo do seu código para criar, e te oferecer autocompletes referentes ao código que está escrevendo e acelerando o desenvolvimento do seu projeto.
 
 ## Os principais elementos do HTML
 
