@@ -24,7 +24,7 @@ Uma IDE (Ambiente de Desenvolvimento Integrado) é uma ferramenta de software pr
 
 O Visual Studio Code, frequentemente abreviado como VS Code, é um ambiente de desenvolvimento integrado de código aberto desenvolvido pela Microsoft. Ele ganhou grande popularidade na comunidade de desenvolvedores devido à sua extensibilidade, desempenho, suporte a várias linguagens de programação e ampla variedade de extensões disponíveis.
 
-### Principais recursos do Visual Studio Code:
+### Principais recursos do Visual Studio Code
 
 - `Editor de Código Avançado`: O VS Code possui um editor poderoso com destaque de sintaxe, autocompletar, realce de erro, suporte a formatação de código e muito mais.
 
@@ -44,6 +44,6 @@ O Visual Studio Code, frequentemente abreviado como VS Code, é um ambiente de d
 
 O Visual Studio Code é uma opção popular para desenvolvedores de diversas áreas, desde desenvolvimento web até programação em sistemas embarcados. É conhecido por sua leveza, flexibilidade e facilidade de uso. Por essas razões, muitos desenvolvedores escolhem o VS Code como sua IDE de preferência.
 
-### onde fazer Download
+### Download
 
 [Download Visual Studio Code](https://code.visualstudio.com/download)

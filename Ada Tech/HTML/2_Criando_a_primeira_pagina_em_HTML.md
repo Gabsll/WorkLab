@@ -1,5 +1,7 @@
 # Primeira pagina de HTML
 
+## Vscode: e
+
 ## Os principais elementos do HTML
 
 O HTML é composto por uma variedade de elementos, que são tags e atributos usados para estruturar e formatar o conteúdo de uma página da web. Aqui estão alguns dos elementos HTML mais comuns:
