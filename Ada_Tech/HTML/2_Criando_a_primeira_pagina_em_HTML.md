@@ -84,10 +84,15 @@ Estes são apenas alguns dos elementos HTML mais comuns. Existem muitos outros e
 
 ### Crie uma extensão ".html"
 
-No vscode crie um novo arquivo e salve-o com a extensão ".html". Por exemplo, você pode nomeá-lo como "index.html".
-![Clique com o lado direito do mause e clique em criar novo arquivo](/Ada_Tech/HTML/Imagens/Criando_um_arquivo_html_1.png))
+`No vscode crie um novo arquivo e salve-o com a extensão ".html". Por exemplo, você pode nomeá-lo como "index.html".`
 
-![ crie uma extenção ".html". Pode nomeá-lo como "index.html"](/Ada_Tech/HTML/Imagens/Criando_um_arquivo_html_2.png)
+- `Clique com o lado direito do mause e clique em criar novo arquivo`
+
+![Clique com o lado direito do mause e clique em criar novo arquivo](/Ada_Tech/HTML/Imagens/Criando_um_arquivo_html_1.png)
+
+- `Crie uma extenção ".html". Pode nomeá-lo como "index.html"`
+
+![ Crie uma extenção ".html". Pode nomeá-lo como "index.html"](/Ada_Tech/HTML/Imagens/Criando_um_arquivo_html_2.png)
 
 ### Estrutura Básica do HTML
 
