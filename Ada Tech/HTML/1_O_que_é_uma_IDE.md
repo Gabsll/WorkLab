@@ -43,3 +43,7 @@ O Visual Studio Code, frequentemente abreviado como VS Code, é um ambiente de d
 - `Comunidade Ativa`: Uma comunidade ativa de desenvolvedores contribui com extensões e atualizações regulares do VS Code.
 
 O Visual Studio Code é uma opção popular para desenvolvedores de diversas áreas, desde desenvolvimento web até programação em sistemas embarcados. É conhecido por sua leveza, flexibilidade e facilidade de uso. Por essas razões, muitos desenvolvedores escolhem o VS Code como sua IDE de preferência.
+
+### onde fazer Download
+
+[Download Visual Studio Code](https://code.visualstudio.com/download)
