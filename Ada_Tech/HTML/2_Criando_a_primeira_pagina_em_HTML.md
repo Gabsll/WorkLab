@@ -86,9 +86,9 @@ Estes são apenas alguns dos elementos HTML mais comuns. Existem muitos outros e
 
 `No vscode crie um novo arquivo e salve-o com a extensão ".html". Por exemplo, você pode nomeá-lo como "index.html".`
 
-- `Clique com o lado direito do mause e clique em criar novo arquivo`
+- `Clique com o lado direito do mouse e clique em criar novo arquivo`
 
-![Clique com o lado direito do mause e clique em criar novo arquivo](/Ada_Tech/HTML/Imagens/Criando_um_arquivo_html_1.png)
+![Clique com o lado direito do mouse e clique em criar novo arquivo](/Ada_Tech/HTML/Imagens/Criando_um_arquivo_html_1.png)
 
 - `Crie uma extenção ".html". Pode nomeá-lo como "index.html"`
 
