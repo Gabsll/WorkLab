@@ -30,8 +30,8 @@ Existem muitos outros comandos e opções no Git, mas esses são alguns dos mais
 Para iniciar um novo repositório Git, basta executar o comando `git init` no diretório que deseja tornar um repositório. Por exemplo:
 
 ```
-$ cd my-project
-$ git init
+cd my-project
+git init
 
 ```
 
@@ -40,7 +40,7 @@ $ git init
 Para criar uma cópia de um repositório Git existente, utilize o comando `git clone`, seguido da URL do repositório. Por exemplo:
 
 ```
-$ git clone <https://github.com/user/repo.git>
+git clone <https://github.com/user/repo.git>
 
 ```
 
@@ -49,7 +49,7 @@ $ git clone <https://github.com/user/repo.git>
 Para adicionar arquivos ao índice do Git, utilize o comando `git add`, seguido do nome do arquivo. Por exemplo:
 
 ```
-$ git add index.html
+git add index.html
 
 ```
 
@@ -58,7 +58,7 @@ $ git add index.html
 Para salvar as alterações no repositório local, utilize o comando `git commit`, seguido de uma mensagem de commit. Por exemplo:
 
 ```
-$ git commit -m "Adiciona arquivo index.html"
+git commit -m "Adiciona arquivo index.html"
 
 ```
 
@@ -67,7 +67,7 @@ $ git commit -m "Adiciona arquivo index.html"
 Para enviar as alterações para um repositório remoto, utilize o comando `git push`, seguido do nome do repositório remoto e da branch que deseja enviar. Por exemplo:
 
 ```
-$ git push origin main
+git push origin main
 
 ```
 
@@ -76,7 +76,7 @@ $ git push origin main
 Para obter as atualizações do repositório remoto e mesclá-las com o repositório local, utilize o comando `git pull`, seguido do nome do repositório remoto e da branch que deseja obter. Por exemplo:
 
 ```
-$ git pull origin main
+git pull origin main
 
 ```
 
@@ -85,7 +85,7 @@ $ git pull origin main
 Para criar uma nova branch no repositório, utilize o comando `git branch`, seguido do nome da nova branch. Por exemplo:
 
 ```
-$ git branch feature-branch
+git branch feature-branch
 
 ```
 
@@ -94,7 +94,7 @@ $ git branch feature-branch
 Para mesclar as alterações de uma branch com outra, utilize o comando `git merge`, seguido do nome da branch que deseja mesclar. Por exemplo:
 
 ```
-$ git merge feature-branch
+git merge feature-branch
 
 ```
 
@@ -103,7 +103,7 @@ $ git merge feature-branch
 Para verificar o estado atual do repositório e dos arquivos, utilize o comando `git status`. Por exemplo:
 
 ```
-$ git status
+git status
 
 ```
 
