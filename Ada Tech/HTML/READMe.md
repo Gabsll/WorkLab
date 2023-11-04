@@ -1,12 +1,10 @@
 # HTML - HyperText Markup Language(Linguagem de Marcação de HiperTexto) 
 
-## introdução a HTML
-
----
+    ## Introdução a HTML
 
 HTML (Linguagem de Marcação de HiperTexto) é o bloco de construção mais básico da web. Define o significado e a estrutura do conteúdo da web. Outras tecnologias além do HTML geralmente são usadas para descrever a aparência/apresentação (CSS) ou a funcionalidade/comportamento (JavaScript) de uma página da web.  
 
-## Links uteis
+    ## Links uteis
     
 [HTML - HTML Documentation](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
