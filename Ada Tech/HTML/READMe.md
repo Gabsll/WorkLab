@@ -24,7 +24,7 @@ Nesta introdução ao HTML, exploraremos os conceitos fundamentais, incluindo as
 
 A marcação em HTML refere-se ao processo de adicionar "marcas" ou "tags" a um documento para indicar a estrutura e o significado dos elementos dentro desse documento. Essas tags são usadas para criar um documento estruturado que pode ser interpretado e renderizado pelos navegadores da web.
 
-marcação/marcas &rarr; Tags
+- marcação/marcas &rarr; Tags
 
 As tags HTML são elementos especiais que envolvem o conteúdo de uma página da web e fornecem informações sobre como esse conteúdo deve ser exibido ou interpretado. Por exemplo, a tag < p > é usada para marcar parágrafos de texto, a tag < img > é usada para inserir imagens e a tag < a > é usada para criar links.
 
