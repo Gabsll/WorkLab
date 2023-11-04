@@ -1,6 +1,6 @@
 # O que é uma IDE?
 
-### IDE (Ambiente de Desenvolvimento Integrado)
+## IDE (Ambiente de Desenvolvimento Integrado)
 
 Uma IDE (Ambiente de Desenvolvimento Integrado) é uma ferramenta de software projetada para simplificar e facilitar o processo de desenvolvimento de software. Ela oferece uma ampla gama de recursos para ajudar os desenvolvedores a criar, depurar e manter aplicativos de software de forma mais eficaz. Alguns dos componentes comuns de uma IDE incluem:
 
@@ -20,7 +20,7 @@ Uma IDE (Ambiente de Desenvolvimento Integrado) é uma ferramenta de software pr
 
 - `Gerenciador de Pacotes`: Para gerenciar bibliotecas e dependências do projeto.
 
-# Visual Studio Code (VS Code)
+## Visual Studio Code (VS Code)
 
 O Visual Studio Code, frequentemente abreviado como VS Code, é um ambiente de desenvolvimento integrado de código aberto desenvolvido pela Microsoft. Ele ganhou grande popularidade na comunidade de desenvolvedores devido à sua extensibilidade, desempenho, suporte a várias linguagens de programação e ampla variedade de extensões disponíveis.
 
@@ -44,6 +44,6 @@ O Visual Studio Code, frequentemente abreviado como VS Code, é um ambiente de d
 
 O Visual Studio Code é uma opção popular para desenvolvedores de diversas áreas, desde desenvolvimento web até programação em sistemas embarcados. É conhecido por sua leveza, flexibilidade e facilidade de uso. Por essas razões, muitos desenvolvedores escolhem o VS Code como sua IDE de preferência.
 
-### Download
+#### Download
 
 [Download Visual Studio Code](https://code.visualstudio.com/download)
