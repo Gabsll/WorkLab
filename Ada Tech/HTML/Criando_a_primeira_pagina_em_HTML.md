@@ -4,7 +4,6 @@
 
 O HTML é composto por uma variedade de elementos, que são tags e atributos usados para estruturar e formatar o conteúdo de uma página da web. Aqui estão alguns dos elementos HTML mais comuns:
 
-
 - `<!DOCTYPE>:` Define a versão do HTML sendo usada e a declaração de tipo de documento.
 
 - `<html>`: Envolve todo o conteúdo da página.
@@ -23,7 +22,7 @@ O HTML é composto por uma variedade de elementos, que são tags e atributos usa
 
 - `<body>`: Contém o conteúdo visível da página, como texto, imagens, links e outros elementos.
 
-- `Cabeçalhos (<h1>, <h2>, <h3>, etc.)`: São usados para definir títulos e subtítulos, com <h1> sendo o título principal e <h2>, <h3>, etc., para hierarquias menores.
+- `Cabeçalhos (<h1>, <h2>, <h3>, etc.)`: São usados para definir títulos e subtítulos, com `<h1>` sendo o título principal e `<h2>`, `<h3>`, etc., para hierarquias menores.
 
 - `<p>`: Define parágrafos de texto.
 
