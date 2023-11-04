@@ -30,9 +30,9 @@ O HTML é composto por uma variedade de elementos, que são tags e atributos usa
 
 - `<img>`: Insere imagens na página.
 
-- `Listas (<ul>, <ol>, <li>)`: São usadas para criar listas não ordenadas (<ul>) e listas ordenadas (<ol>), com os elementos <li> representando os itens da lista.
+- `Listas (<ul>, <ol>, <li>)`: São usadas para criar listas não ordenadas `(<ul>)` e listas ordenadas `(<ol>)`, com os elementos `<li>` representando os itens da lista.
 
-- `<table>`: Define uma tabela, com elementos como <thead>, <tbody>, <tr>, <th>, e <td> usados para organizar o conteúdo da tabela.
+- `<table>`: Define uma tabela, com elementos como `<thead>`, `<tbody>`, `<tr>`, `<th>`, e `<td>` usados para organizar o conteúdo da tabela.
 
 - `<form>`: Cria um formulário interativo que permite a entrada de dados do usuário.
 
@@ -42,12 +42,10 @@ O HTML é composto por uma variedade de elementos, que são tags e atributos usa
 
 - `<button>`: Cria botões interativos em formulários.
 
-<div> e <span>: São elementos de contêiner usados para agrupar outros elementos HTML e aplicar estilos ou scripts a eles.
+- `<div> e <span>`: São elementos de contêiner usados para agrupar outros elementos HTML e aplicar estilos ou scripts a eles.
 
-<hr>: Cria uma linha horizontal para separar o conteúdo.
+- `<hr>`: Cria uma linha horizontal para separar o conteúdo.
 
-<br>: Insere uma quebra de linha.
-
-```
+- `<br>`: Insere uma quebra de linha.
 
 Estes são apenas alguns dos elementos HTML mais comuns. Existem muitos outros elementos e atributos disponíveis no HTML, e a combinação deles permite criar páginas da web ricas e interativas. A escolha dos elementos e sua estrutura depende do tipo de conteúdo que você deseja criar.
