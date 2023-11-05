@@ -73,6 +73,8 @@ Ao seguir esses pontos-chave ao criar marcação HTML, você estará no caminho 
 
 ## Aprendendo a usar HTML
 
-[1 - O que e uma IDE?](1_O_que_é_uma_IDE.md)
+[01 - O que e uma IDE?](01_O_que_é_uma_IDE.md)
 
-[2 - Criando a primeira pagina em HTML](2_Criando_a_primeira_pagina_em_HTML.md)
+[02 - Criando a primeira pagina em HTML](02_Criando_a_primeira_pagina_em_HTML.md)
+
+[03 - Principais TAGs do HTML](03_Principais_TAGs_do_HTML.md)
