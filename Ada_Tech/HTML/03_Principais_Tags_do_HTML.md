@@ -95,7 +95,7 @@ A tag `<style>` é usada para declarar estilos (CSS) para um documento.
 <h3>Título de Nível 3</h3>
  ```
 
-### parágrafos
+### Parágrafos
 
  `<p>`: A tag <p> é usada para criar parágrafos de texto.
 
