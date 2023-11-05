@@ -97,7 +97,7 @@ A tag `<style>` é usada para declarar estilos (CSS) para um documento.
 
 ### Parágrafos
 
- `<p>`: A tag <p> é usada para criar parágrafos de texto.
+ `<p>`: A tag `<p>` é usada para criar parágrafos de texto.
 
  ```
  <p>Este é um parágrafo de exemplo.</p>
@@ -106,7 +106,7 @@ A tag `<style>` é usada para declarar estilos (CSS) para um documento.
 
 ### Criando links para outras paginas
 
- `<a>`:A tag <a> cria links para outras páginas da web.
+ `<a>`:A tag `<a>` cria links para outras páginas da web.
 
  ```
  <a href="https://www.exemplo.com">Visite o Exemplo.com</a>
@@ -115,7 +115,7 @@ A tag `<style>` é usada para declarar estilos (CSS) para um documento.
 
 ### Inserindo imagens
 
- `<img>`:A tag <img> insere imagens na página.
+ `<img>`:A tag `<img>` insere imagens na página.
 
  ```
  <img src="imagem.jpg" alt="Imagem de Exemplo">
