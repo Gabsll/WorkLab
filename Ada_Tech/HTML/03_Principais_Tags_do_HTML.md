@@ -25,7 +25,7 @@ logo em seguida precione TAB
 
 ```
 
-Resuktando:
+Resultado:
 
 ```
 <!DOCTYPE html>
@@ -43,7 +43,31 @@ Resuktando:
 
 ```
 
-### `<html> e <body>`
+### Estrutura basica
+
+#### `<!DOCTYPE html>`
+
+ É uma declaração que define o tipo de documento HTML que o navegador deve esperar. Ela não é uma tag HTML, mas uma instrução do tipo de documento.
+
+Esta declaração é o que chamamos de "Document Type Declaration" (DTD) e informa ao navegador que o documento HTML está seguindo o padrão HTML5. Ela deve ser a primeira linha do seu documento HTML e é importante para garantir que o navegador interprete o código corretamente.
+
+#### `<html> e <body>`
 
 A tag `<html>` é o elemento raiz de um documento HTML, que engloba todo o conteúdo.
 A tag `<body>` contém o conteúdo visível da página.
+
+#### `<script> e <head>`
+
+A tag `<script>` contém instruções de script ou aponta para um arquivo de script externo por meio do atributo src.
+
+A tag `<head>` Compreende as informações do documento que serão interpretadas pelo navegador (metadados). Como por exemplo, título do documento, links para folhas de estilo etc.
+
+#### `<meta> e <link>`
+
+A tag `<meta>` define metadados, ou seja, informações sobre dados de um documento HTML. As `<meta>` tags vão dentro do elemento `<head>` e são usadas para especificar o conjunto de caracteres, o autor do documento, as configurações da janela de visualização etc.
+
+A tag `<link>`é uma tag vazia, que contém apenas atributos e faz a relação do documento HTML com recursos externos, é comumente usado para vincular uma folha de estilo externa, como outros recursos.
+
+#### `<style>`
+
+a tag `<style>` é usada para declarar estilos (CSS) para um documento.
