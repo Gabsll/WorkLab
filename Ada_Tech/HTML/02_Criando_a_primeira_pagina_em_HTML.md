@@ -114,7 +114,7 @@ Agora, adicione a estrutura básica do HTML ao seu arquivo "index.html". Aqui es
 
 ```
 
-[Pagina html](index.html)
+[Pagina html](/Ada_Tech/HTML/Arquivos%20html/index.html)
 
 #### Iniciar o Live Server
 
